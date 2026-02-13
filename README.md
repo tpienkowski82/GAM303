@@ -26,7 +26,7 @@ Shadow Run: Data Heist is a single-level stealth prototype built in Unreal Engin
 - Detection trigger volume causes a fail state (GameMode HandleFail).
 
 ## Test Plan + Traceability
-See: docs/GAM303_Traceability_and_TestPlan_M2_Final.xlsx
+See: docs/GAM303_Traceability_and_TestPlan_Pienkowski.xlsx
 
 ## Known Issues / Future Work
 - UI/HUD is planned for final submission.
